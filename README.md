@@ -1,6 +1,8 @@
 # Dogecoin Full Node Data
 Provide Dogecoin full node data to facilitate everyone to synchronize Dogecoin full nodes
 
+定期更新的 Dogecoin 狗狗币全节点完整数据，以便让你最快速度的完成同步
+
 Website
 https://www.CryptoCell.Guru
 
